@@ -16,5 +16,6 @@
 - Add your database name and login/password to **.env** file 
 - **$ php artisan migrate**
 - **$ php atrisan seed**
+- **$ php artisan storage:link**
 - Then you can enter to [Admin panel](http://your_domain.local/admin/login) 
 - If you upload company logo's then you can find them in [public upload directory](http://your_domain.local/storage/*.JPG)
