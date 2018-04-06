@@ -10,7 +10,7 @@
 ## Test task
 
 
-- **$ git clone**
+- **$ git clone https://github.com/censore/laraveltest.git**
 - **$ composer install**
 - Then create your database
 - Add your database name and login/password to **.env** file 
